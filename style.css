@@ -162,7 +162,7 @@ ul {
 .nav-links {
     display: flex;
     align-items: center;
-    gap: 32px;
+    gap: 20px;
 }
 
 .nav-links a:not(.btn) {
